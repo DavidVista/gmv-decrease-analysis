@@ -12,19 +12,19 @@ The analysis and results are reported in the single [Jupyter notebook]().
 
 The key metric for this business is *Gross Merchandise Value*, which dropped during April, 2026:
 
-![gmv_drop](images/gmv_drop)
+![gmv_drop](images/gmv_drop.png)
 
 The metric can be decomposed using key factors: number of orders and AOV. Then, each subcomponents is split into respective factors forming a tree:
 
-![](images/metric_tree)
+![metric_tree](images/metric_tree.png)
 
 The effect is then decomposed according to main factors:
 
-![](images/factors)
+![factors](images/factors.png)
 
 Furthermore, I spot the drop in the specific part of the funnel:
 
-![](images/funnel_drop)
+![funnel_drop](images/funnel_drop.png)
 
 The marketing communications changed significantly in April, 2026: sending time changed to morning and more communications started to be sent through email. I used A/B tests splits to discover if the change in marketing strategy has any significant effect to the drop in the conversion from item card to cart adding.
 
